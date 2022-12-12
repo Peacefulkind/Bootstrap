@@ -27,7 +27,7 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
-# 📖 [Mobile Website] <a name="about-project"></a>
+# 📖 [Mobile Website with Bootstrap] <a name="about-project"></a>
 
 **[Portfolio: Desktop version]** is a project built to showcase my work as a software developer.
 
